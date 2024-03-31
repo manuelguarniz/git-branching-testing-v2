@@ -1,0 +1,3 @@
+esta rama solo se crea sin generar conflictos.
+
+para proximos test se utilizará merge con conflictos
