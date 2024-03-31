@@ -1,1 +1,2 @@
 se crea nueva rama, para implementar la rama1
+se ha modificado el archivo: rama1
