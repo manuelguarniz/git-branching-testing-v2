@@ -3,4 +3,5 @@ empezamos los test de git con nuevos comandos.
 Los comandos aplicar son los siguientes:
 
 1. commit tradicional
-2. se esta agreando nueva rama1.txt
+2. se esta agreando (se esta agregando un nuevo texto) nueva rama1.txt
+3. en este cambio estare actualizando un archivo antes creando y modificando una line anterior.
