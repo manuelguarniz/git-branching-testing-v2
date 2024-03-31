@@ -1,0 +1,5 @@
+empezamos los test de git con nuevos comandos.
+
+Los comandos aplicar son los siguientes:
+
+1. commit tradicional
